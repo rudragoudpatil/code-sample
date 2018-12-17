@@ -5,4 +5,4 @@
  
  do composer installation ===== composer install
  
-.Run Following command execute tests ====== /vendor/bin/phpunit tests/FindSumPartsFromArrayTest.php
+Run Following command execute tests ====== ./vendor/bin/phpunit tests/FindSumPartsFromArrayTest.php
